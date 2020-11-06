@@ -8,9 +8,9 @@ def my_hash
 end
 
 def pioneer
-  pioneer = { :Name => "Grace Hopper"
+  pioneer = { :name => "Grace Hopper"
 }
-pioneer[:Name]
+pioneer[:name]
 end
 
 
