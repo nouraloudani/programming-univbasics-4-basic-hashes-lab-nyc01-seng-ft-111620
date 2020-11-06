@@ -10,7 +10,7 @@ end
 def pioneer
   pioneer = { :name => "Grace Hopper"
 }
-pioneer[:name]
+pioneer = [:name]
 end
 
 
