@@ -10,7 +10,7 @@ end
 def pioneer
   pioneer = { :Name => "Grace Hopper"
 }
-pioneer
+pioneer[:Name]
 end
 
 
