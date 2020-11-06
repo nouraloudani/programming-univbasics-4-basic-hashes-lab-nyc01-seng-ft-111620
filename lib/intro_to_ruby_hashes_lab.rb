@@ -15,5 +15,5 @@ end
 
 
 def id_hash_generator(number)
-  object.number
+  Hash.object.number
 end
